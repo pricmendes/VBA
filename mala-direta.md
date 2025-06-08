@@ -48,8 +48,8 @@ Esta ferramenta automatiza 100% do processo. Para se adaptar a diferentes necess
 
 | Descrição | Demonstração |
 | :--- | :--- |
-| **Popup de Progresso em Ação:** <br> Mostra o andamento do processo em tempo real, informando o cliente atual e a contagem total. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg"><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg" alt="Popup de Progresso em Ação" width="250"></a> |
-| **Resultado Final e Log de Erros:** <br> Apresenta um resumo da execução e informa se foi gerado um log de falhas. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg"><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg" alt="Resultado Final e Log de Erros" width="250"></a> |
+| **Popup de Progresso em Ação:** <br> Mostra o andamento do processo em tempo real, informando o cliente atual e a contagem total. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg" target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg" alt="Popup de Progresso em Ação" width="250"></a> |
+| **Resultado Final e Log de Erros:** <br> Apresenta um resumo da execução e informa se foi gerado um log de falhas. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg" target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg" alt="Resultado Final e Log de Erros" width="250"></a> |
 
 *💡 Clique nas imagens para ampliar e ver em detalhe.*
 
