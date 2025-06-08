@@ -48,8 +48,8 @@ Esta ferramenta automatiza 100% do processo. Para se adaptar a diferentes necess
 
 | Descrição | Demonstração |
 | :--- | :--- |
-| **Popup de Progresso em Ação:** <br> Mostra o andamento do processo em tempo real, informando o cliente atual e a contagem total. | <img src="https://raw.githubusercontent.com/pricmendes/VBA/main/assets/rodando.jpg" width="150"> |
-| **Resultado Final e Log de Erros:** <br> Apresenta um resumo da execução e informa se foi gerado um log de falhas. | <img src="https://raw.githubusercontent.com/pricmendes/VBA/main/assets/finalizado.jpg" width="150"> |
+| **Popup de Progresso em Ação:** <br> Mostra o andamento do processo em tempo real, informando o cliente atual e a contagem total. | <img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg" width="150"> |
+| **Resultado Final e Log de Erros:** <br> Apresenta um resumo da execução e informa se foi gerado um log de falhas. | <img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg" width="150"> |
 
 ---
 
