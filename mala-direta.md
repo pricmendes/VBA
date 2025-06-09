@@ -49,6 +49,7 @@ Esta ferramenta automatiza 100% do processo. Para se adaptar a diferentes necess
 | Descrição | Demonstração |
 | :--- | :--- |
 | **Popup de Progresso em Ação:** <br> Mostra o andamento do processo em tempo real, informando o cliente atual e a contagem total. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg"><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/rodando.jpg" width="150"></a> |
+| **Caixa de Saída Outlook:** <br> Mostra os emails que foram gerados através do sistema VBA. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/cxSaida.jpg"><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/cxSaida.jpg" width="150"></a> |
 | **Resultado Final e Log de Erros:** <br> Apresenta um resumo da execução e informa se foi gerado um log de falhas. | <a href="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg"><img src="https://raw.githubusercontent.com/pricmendes/VBA/refs/heads/word/assets/finalizado.jpg" width="150"></a> |
 
 *💡 Clique nas imagens para ampliar e ver em detalhe.*
